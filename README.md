@@ -3,8 +3,6 @@
 ## Project Overview
 This project demonstrates API testing with Postman against the public DummyJSON practice API. It covers authentication, product endpoints, and cart operations, using JavaScript assertions to validate response status codes, response structure, data types, and selected consistency rules.
 
-> **Important:** The Postman collection JSON is intentionally not included in this ZIP. Add your exported collection file to this repository before publishing it.
-
 ## Objectives
 - Validate successful and unsuccessful API requests.
 - Test login and token-based access.
@@ -53,7 +51,7 @@ These results reflect the collection run reported during project development. Ru
 
 ## How to Run
 1. Install Postman.
-2. Import the Postman collection JSON file (add it to this repository separately).
+2. Import the Postman collection JSON file.
 3. Select the correct environment if your requests use environment variables.
 4. Run the valid-login request first when a fresh access token is needed.
 5. Run the collection with Postman's Collection Runner.
@@ -78,7 +76,6 @@ DummyJSON is a practice API, not a production e-commerce application. Some write
 - `reports/TEST-SUMMARY-REPORT.md` — scope and summary of results
 - `docs/TEST-PLAN.md` — scope, approach, and test areas
 - `docs/TEST-CASE-INVENTORY.md` — high-level test-case inventory
-- `evidence/README.md` — notes on adding screenshots or exported reports
 
 ## Author
 QA portfolio project demonstrating API testing practice with Postman and DummyJSON.
