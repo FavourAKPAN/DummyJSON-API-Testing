@@ -28,11 +28,10 @@
 - Cart quantity consistency
 
 ## Notes and Limitations
-1. These figures are based on the Collection Runner result reported during project development; rerun the collection before publishing if a freshly verified result is required.
+1. These figures are based on the Collection Runner result reported during project development.
 2. The count refers to assertions/tests reported by Postman, not necessarily the number of distinct HTTP requests.
 3. DummyJSON is a practice API. Its write endpoints may simulate changes rather than persist them in a production database.
 4. A passing assertion means the observed response met that assertion; it is not proof that every possible behaviour is correct.
-5. Add a screenshot of the final Collection Runner summary to the `evidence/` folder if you want to include visual execution evidence.
 
 ## Prepared By
-QA portfolio project author
+Favour Akpan
