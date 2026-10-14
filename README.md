@@ -77,5 +77,5 @@ DummyJSON is a practice API, not a production e-commerce application. Some write
 - `docs/TEST-PLAN.md` — scope, approach, and test areas
 - `docs/TEST-CASE-INVENTORY.md` — high-level test-case inventory
 
-## Author
+## Favour Akpan
 QA portfolio project demonstrating API testing practice with Postman and DummyJSON.
