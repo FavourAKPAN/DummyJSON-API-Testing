@@ -9,8 +9,8 @@
 ## Reported Result
 | Metric | Result |
 |---|---:|
-| Total assertions | 117 |
-| Passed | 117 |
+| Total assertions | 122 |
+| Passed | 122 |
 | Failed | 0 |
 | Pass rate | 100% |
 
