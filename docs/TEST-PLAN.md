@@ -1,7 +1,7 @@
 # API Test Plan
 
 ## Purpose
-Define the scope and approach for practising API testing with Postman against DummyJSON.
+Practising API testing with Postman against DummyJSON.
 
 ## System Under Test
 DummyJSON public practice API: `https://dummyjson.com`
