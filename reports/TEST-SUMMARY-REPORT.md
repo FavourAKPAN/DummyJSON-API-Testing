@@ -28,11 +28,3 @@ This project used Postman to practise API testing against DummyJSON, a public pr
 
 ## Conclusion
 The reported run indicates that the assertions in the collection passed against the responses returned by DummyJSON. The project demonstrates practical use of Postman, JavaScript assertions, environment variables, authentication headers, and collection execution.
-
-The result should be described as a practice API test run, not as evidence that a production shopping application is defect-free. Since the API may simulate write operations, a successful create, update, or delete response does not establish persistent state changes.
-
-## Recommended Next Steps
-1. Rerun the collection and capture the final result screen.
-2. Add the exported Postman collection JSON separately.
-3. Ensure no live tokens or sensitive environment values are committed.
-4. Upload the project files to GitHub.
