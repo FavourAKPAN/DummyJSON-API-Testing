@@ -21,8 +21,8 @@ This project used Postman to practise API testing against DummyJSON, a public pr
 - Guarantees about behaviour beyond the endpoints and assertions exercised
 
 ## Reported Results
-- **Assertions:** 117
-- **Passed:** 117
+- **Assertions:** 122
+- **Passed:** 122
 - **Failed:** 0
 - **Reported pass rate:** 100%
 
