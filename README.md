@@ -45,7 +45,7 @@ This project demonstrates API testing with Postman against the public DummyJSON 
 - Validate cart quantity consistency
 
 ## Test Execution Results
-The user-reported final collection run contained **117 assertions: 117 passed and 0 failed**.
+The user-reported final collection run contained **122 assertions: 122 passed and 0 failed**.
 
 These results reflect the collection run reported during project development. Run the collection again before publishing if you want to report a newly verified final result.
 
